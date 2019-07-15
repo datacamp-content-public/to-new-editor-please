@@ -14,7 +14,7 @@ xp: 100
 skills: 2
 ```
 
-Change1Change1Change1Change1Change1Change1
+Change1Change1Change1Change1Change1Change12
 
 `@instructions`
 
